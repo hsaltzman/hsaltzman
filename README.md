@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and data science
 - 🌱 I’m currently learning advanced python
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me henry.saltzmann@gmail.com
+- 📫 How to reach me henry.saltzman@yahoo.com
 
 <!---
 hsaltzman/hsaltzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
