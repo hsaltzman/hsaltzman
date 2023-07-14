@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hsaltzman
-- 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning advanced python
+- 👀 I’m passionate about data science and machine learning
+- 🌱 I’m currently working on a fun project to use machine learning to predict the winner of baseball matches
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me henry.saltzman@yahoo.com
 
